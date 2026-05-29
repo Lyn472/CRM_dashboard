@@ -2,7 +2,7 @@
 
 **1. Overview**
 
-Maven is a B2B computer hardware company that recently adopted a Customer Relationship Management (CRM) system to streamline sales operations.
+The Company is a B2B computer hardware company that recently adopted a Customer Relationship Management (CRM) system to streamline sales operations.
 Despite the implementation, the company has yet to fully leverage the CRM’s analytical capabilities to monitor and optimize sales team performance.
 
 The objective of this project is to develop an interactive Power BI dashboard that:
